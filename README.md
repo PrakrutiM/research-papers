@@ -7,3 +7,6 @@ Over the course of my MA in Digital Humanities, I worked on two major research p
 ## Textual Criticism
 
 For the Fall 2020 seminar on Textual Criticism, taught by Dr. Marta Werner, I look at how literary activities in new media have led to a new kind of reader and reader response, that is not based on close reading of texts, but takes a distant second-hand responses of generating reader responses online. 
+
+## Business Strategy
+As part of the MGMT 573 seminar at the Quinlan Business School, was part of a group project that involved creating strategy for the Baumahart Center, which falls under the Business School, and is working towards building a hub of doing business at the intersection of profit & purpose. My key contribution was to suggest creating an immersive gamified networking experience using software like gather.town, to maintain engagement and interactivity in a world that is either fully or partially virtual. 
